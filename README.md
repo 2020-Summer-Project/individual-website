@@ -8,8 +8,8 @@ Individual group members' website
     1. [Repository](https://github.com/khsc96/khsc96.github.io)
     2. [Website](https://khsc96.github.io/My-website/)
 3. Eng Xuan En
-    1. [Repository]()
-    2. [Website]()
+    1. [Repository](https://github.com/Exeexe93/profile-website)
+    2. [Website](https://exeexe93.github.io/profile-website/)
 4. Cranston Yeo Zhijie
     1. [Repository]()
     2. [Website]()
